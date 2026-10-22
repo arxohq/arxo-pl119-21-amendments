@@ -19,7 +19,10 @@ Law Revision Counsel, the Treasury or the IRS.
    refund appropriation. When Congress made §25A partly refundable (2009), moved the adoption credit
    into subpart C as §36C (2010), and made §21 refundable and §24 fully refundable for 2021, it
    amended both lists each time. H.R. 2833, the Adoption Tax Credit Refundability Act of 2025, would
-   have added the credit to both lists (§2(a)(2)(E) and (G)). On October 16, 2026 the IRS announced
+   have added the credit to both lists (§2(a)(2)(E) and (G)). The one earlier gap of this kind was closed
+   by a technical correction: the 1997 Act made part of the child tax credit refundable (§24(d))
+   without adding it to §6211(b)(4)(A), and P.L. 106-554 (2000) added "24(d)" effective as if included
+   in the 1997 Act. On October 16, 2026 the IRS announced
    that it has begun issuing refunds to more than 50,000 taxpayers whose adoption credit
    carryforwards from 2020 through 2024 increase the refundable portion of the credit for 2025
    (IR-2026-123). *Status: the omission is established; its consequences are a question for
@@ -72,7 +75,7 @@ Law Revision Counsel, the Treasury or the IRS.
 | 19 | §168(n)(2)(G) | §70307 | refers to (k)(2)(E)(iii), which the same Act redesignated (E)(ii) | JCT n. 474 |
 | 20 | §25C(h) | §70505(a) | amends (h); the text is in (i) | JCT n. 1170 |
 | 21 | §1202(a)(4), §529(e)(3) | §70431(a)(5)(B), §70413(b)(1) | the named subdivision is not where the text is | OLRC |
-| 22 | §168(k)(2)(A)(i)(VI) | §70301(a)(1), §70434(g)(1)(A) | "and and" | OLRC |
+| 22 | §168(k)(2)(A)(i)(V) | §70301(a)(1) (188), §70434(g)(1)(A) (245) | clause (V) ends ", and or" | OLRC |
 | 23 | §170(p) | §70424(a)(1) (235) | Code reads "1,000 ($2,000"; the Act inserts "$1,000 ($2,000" | — (OLRC release text) |
 | 24 | §67(g)(2) | §70110 (164) | Code has no final period; the Act has one | — (OLRC release text) |
 
@@ -144,6 +147,10 @@ Law, the Center for Taxpayer Rights, ICI and SIFMA.
 ## Corrections
 
 If you find an error in these notes, please write to hi@arxo.io. Corrections will be recorded below.
+
+- **2026-10-22.** Finding 22: the Code's §168(k)(2)(A)(i)(V) ends ", and or" (OLRC note "So in original");
+  the earlier text named clause (VI) and quoted "and and". Finding 1: added the 1997/2000 history of §24(d)
+  in §6211(b)(4)(A).
 
 ## Changes
 
