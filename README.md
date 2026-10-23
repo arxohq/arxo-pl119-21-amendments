@@ -81,7 +81,8 @@ Law Revision Counsel, the Treasury or the IRS.
 
 Rows 14–18 and 11 are the six drafting errors without an OLRC note (row 18 is not yet in the Code).
 Rows 23–24 are differences between the published Code and the Act. Older cross-reference
-problems in the same sections (§42, §642, §877, §55) are described in note 1, section 6.
+problems in the same sections (§42, §642, §877, §55) are described in note 1, section 6. The Office
+of the Law Revision Counsel has since added notes for the five of them that had none (see Follow-up).
 
 ## Notes
 
@@ -129,6 +130,15 @@ Liaison; the Government Accountability Office; the office of Rep. Danny K. Davis
 the ABA Section of Taxation, NAEA, TEI, the National Council For Adoption, the Tax Law Center at NYU
 Law, the Center for Taxpayer Rights, ICI and SIFMA.
 
+## Follow-up
+
+- **2026-10-23.** The Office of the Law Revision Counsel told us that it has added footnotes and
+  References in Text notes for the five cross-references in note 1, section 6, that had no note:
+  §42(e)(3)(B), §42(i)(3)(C)(ii), §42(j)(5)(C)(i), §642(b)(2)(C)(iii)(II) and §877(a)(2). It expects
+  them in the next release point of the Code and in Supplement I to the 2024 Main Edition. We will
+  check the next release point and record the result here. OLRC is now reviewing the points in our
+  second email to it.
+
 ## Sources
 
 | Source | Where | SHA-256 |
@@ -160,6 +170,7 @@ If you find an error in these notes, please write to hi@arxo.io. Corrections wil
 
 - 2026-10-22 — first publication.
 - 2026-10-23 — correction to finding 1 and note 1 (see Corrections).
+- 2026-10-23 — Follow-up: OLRC notes for five older cross-references in note 1, section 6.
 
 ## License
 
