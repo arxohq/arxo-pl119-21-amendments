@@ -2,6 +2,9 @@
 
 Arxo Law · October 2026 · contact: hi@arxo.io
 
+Correction (October 23, 2026): the precedents paragraph in section 1 was too broad; see
+README, Corrections.
+
 ## Summary
 
 We took every amending instruction of P.L. 119-21 that touches 58 inflation-indexed
@@ -56,13 +59,17 @@ separates what the text establishes from questions that need further legal analy
     - Section 23 was added in 1996 (P.L. 104-188 §1807). The Taxpayer Relief Act of 1997
       amended it but did not enact it, and subsection (a)(4) dates from 2025.
     - Section 23 is not in the list.
-- **Precedents.** Each time Congress made one of these credits refundable, in whole or in
-  part, it named the section in both lists:
+- **Precedents.** In the following cases, when Congress made one of these credits
+  refundable, in whole or in part, it named the section in both lists:
   - §25A, made partly refundable by P.L. 111-5 §1004(b)(7) and (8) (2009);
   - the adoption credit itself, moved into subpart C as §36C, by P.L. 111-148
     §10909(b)(2)(N) and (P) (2010);
   - §21 and §24, made refundable and fully refundable, respectively, for 2021, by P.L.
     117-2 §9631(c) and §9611(b)(4).
+
+  It did not do so in 1997. The Taxpayer Relief Act of 1997 made part of the child tax
+  credit refundable (§24(d)) without adding it to §6211(b)(4)(A). P.L. 106-554, Appendix G,
+  §314(a) and (g) (2000), added "24(d)", effective as if included in the 1997 Act.
 
   In 2021 Congress added “24” to 31 U.S.C. 1324(b)(2), although §24 itself was enacted
   by the Taxpayer Relief Act of 1997. The refundable rule then added, §24(i), was not

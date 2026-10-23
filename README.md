@@ -18,9 +18,9 @@ Law Revision Counsel, the Treasury or the IRS.
    purposes, or in 31 U.S.C. 1324(b)(2), which names the credit provisions paid from the permanent
    refund appropriation. When Congress made §25A partly refundable (2009), moved the adoption credit
    into subpart C as §36C (2010), and made §21 refundable and §24 fully refundable for 2021, it
-   amended both lists each time. H.R. 2833, the Adoption Tax Credit Refundability Act of 2025, would
-   have added the credit to both lists (§2(a)(2)(E) and (G)). The one earlier gap of this kind was closed
-   by a technical correction: the 1997 Act made part of the child tax credit refundable (§24(d))
+   amended both lists in each of these cases. H.R. 2833, the Adoption Tax Credit Refundability Act of 2025, would
+   have added the credit to both lists (§2(a)(2)(E) and (G)). In 1997 Congress did not, and a technical
+   correction closed the gap: the 1997 Act made part of the child tax credit refundable (§24(d))
    without adding it to §6211(b)(4)(A), and P.L. 106-554 (2000) added "24(d)" effective as if included
    in the 1997 Act. On October 16, 2026 the IRS announced
    that it has begun issuing refunds to more than 50,000 taxpayers whose adoption credit
@@ -151,10 +151,15 @@ If you find an error in these notes, please write to hi@arxo.io. Corrections wil
 - **2026-10-22.** Finding 22: the Code's §168(k)(2)(A)(i)(V) ends ", and or" (OLRC note "So in original");
   the earlier text named clause (VI) and quoted "and and". Finding 1: added the 1997/2000 history of §24(d)
   in §6211(b)(4)(A).
+- **2026-10-23.** Finding 1 and note 1: the statement that Congress named each newly refundable
+  credit in both lists "each time" was too broad. Congress did not add §24(d) to §6211 when it
+  enacted the refundable credit in 1997; P.L. 106-554, Appendix G, §314(a) and (g) (2000), added it,
+  effective as if included in the 1997 Act. Note 1 now says so.
 
 ## Changes
 
 - 2026-10-22 — first publication.
+- 2026-10-23 — correction to finding 1 and note 1 (see Corrections).
 
 ## License
 
